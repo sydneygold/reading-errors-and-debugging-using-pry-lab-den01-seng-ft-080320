@@ -8,5 +8,3 @@ def snake_it_up(string)
     binding.pry
   end
 end
-
-
