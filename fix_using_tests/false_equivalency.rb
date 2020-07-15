@@ -17,8 +17,9 @@ def selection(num)
 
   else num == 2
     puts "HAM HAM HAM IN MY TUMMY"
-    binding.pry
+  
 end
+binding.pry
 end
 
 def runner
