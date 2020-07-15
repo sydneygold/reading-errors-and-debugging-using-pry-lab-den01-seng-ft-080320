@@ -4,7 +4,7 @@ require 'pry'
 def generate_star_date
   (rand(100000) + 400000) / 10.0
 end
-def star_date()
+def star_date(date, generate_star_date)
     puts generate_star_date
 end
 
