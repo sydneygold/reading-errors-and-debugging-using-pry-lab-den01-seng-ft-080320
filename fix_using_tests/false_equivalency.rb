@@ -19,9 +19,10 @@ binding.pry
     puts "HAM HAM HAM IN MY TUMMY"
 binding.pry
 end
+end
 
 def runner
   prompt_user
   selection(get_user_input)
 end
-end
+
