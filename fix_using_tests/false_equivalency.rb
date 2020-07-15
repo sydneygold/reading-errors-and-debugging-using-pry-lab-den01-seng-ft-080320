@@ -19,7 +19,6 @@ def selection(num)
     puts "HAM HAM HAM IN MY TUMMY"
 
 end
-binding.pry
 end
 
 def runner
