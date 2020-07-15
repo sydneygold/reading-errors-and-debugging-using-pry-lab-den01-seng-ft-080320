@@ -8,4 +8,6 @@ def snake_it_up(string)
   end
 end
 binding.pry
-puts "Why wont you workkk"
+
+puts 'i dunno man'
+end
